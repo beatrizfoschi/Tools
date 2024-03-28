@@ -1,0 +1,1 @@
+bm32/inhouse/lauetoolsenv2/bin/python3 -m ipykernel install --user --name lauetoolsenv2 --display-name "laueenv2"
