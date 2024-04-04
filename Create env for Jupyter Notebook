@@ -1,1 +1,3 @@
-bm32/inhouse/lauetoolsenv2/bin/python3 -m ipykernel install --user --name lauetoolsenv2 --display-name "laueenv2"
+! bm32/inhouse/lauetoolsenv2/bin/python3 -m ipykernel install --user --name lauetoolsenv2 --display-name "laueenv2"
+
+!/home/esrf/foschian/lauetoolsenv2/bin/python3 -m pip install scikit-learn
